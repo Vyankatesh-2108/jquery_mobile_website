@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.img{
+    margin-left: 10px;
+}
+
+.contactUs{
+    border: 1px solid black;
+    background-color:#EFE2BA;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.bookpage{
+
+    border: 1px solid black;
+    background-color:#EFE2BA;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
